@@ -49,12 +49,10 @@ Estudante de **Ciência da Computação** e desenvolvedor focado em transformar 
 
 ---
 
-## 📊 Estatísticas & Presença
+## ⚡ Terminal Status
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bunker25Logic&show_icons=true&hide_border=true&bg_color=1A0B2E&title_color=39FF14&text_color=2E5BFF&icon_color=39FF14" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bunker25Logic&layout=compact&hide_border=true&bg_color=1A0B2E&title_color=39FF14&text_color=2E5BFF" alt="Linguagens mais usadas" />
-</p>sername=Bunker25Logic&show_icons=true&hide_border=true&bg_color=1A0B2E&title_color=39FF14&text_color=2E5BFF&icon_color=39FF14)
-
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Bunker25 Logic Cyberpunk Dev" />
+</p>
 *   📍 **Localização:** Brasiléia, Acre.
 *   🔗 **GitHub:** [Bunker25Logic](https://github.com/Bunker25Logic).
 *   🎯 **Meta Julho/2026:** Consolidação como desenvolvedor fullstack de alta remuneração.
