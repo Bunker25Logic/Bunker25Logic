@@ -16,7 +16,7 @@ Estudante de **Ciência da Computação** e desenvolvedor focado em transformar 
 ---
 
 ### 🛠️ Tech Stack & Cloud Infrastructure
-*   **Frontend Core:** Next.js, React, TypeScript e **Tailwind CSS v4+** (Engine Oxide).
+*   **Frontend Core:** Next.js, React, JavaScript e **Tailwind CSS v4+** (Engine Oxide).
 *   **Back-end & Persistência:** Node.js, Express e ecossistema **BaaS** (Firebase & Supabase) para infraestrutura real-time.
 *   **DevOps & Workflow:** Pipelines de **CI/CD** via GitHub Actions e Vercel, versionamento semântico e automação de deploys.
 *   **UI/UX Design:** Prototipagem no **Figma** seguindo a paleta oficial: `#1A0B2E`, `#39FF14`, `#2E5BFF` e `#9D4EDD` (**Susanoo**).
