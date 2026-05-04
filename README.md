@@ -50,8 +50,8 @@ Estudante de **Ciência da Computação** e desenvolvedor focado em transformar 
 ---
 
 ## ⚡ Terminal Status
-<p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" align-itens="center" alt="Bunker25 Logic Cyberpunk Dev" />
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JueXN4Z3JudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Bunker25 Logic Cyberpunk Dev" />
 </p>
 *   📍 **Localização:** Brasiléia, Acre.
 *   🔗 **GitHub:** [Bunker25Logic](https://github.com/Bunker25Logic).
