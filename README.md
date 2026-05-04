@@ -50,10 +50,10 @@ Estudante de **Ciência da Computação** e desenvolvedor focado em transformar 
 ---
 
 ## 📊 Estatísticas & Presença
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Bunker25&show_icons=true&hide_border=true&bg_color=1A0B2E&title_color=39FF14&text_color=2E5BFF&icon_color=39FF14)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Bunker25Logic&show_icons=true&hide_border=true&bg_color=1A0B2E&title_color=39FF14&text_color=2E5BFF&icon_color=39FF14)
 
 *   📍 **Localização:** Brasiléia, Acre.
-*   🔗 **GitHub:** [Bunker25](https://github.com/Bunker25).
+*   🔗 **GitHub:** [Bunker25Logic](https://github.com/Bunker25Logic).
 *   🎯 **Meta Julho/2026:** Consolidação como desenvolvedor fullstack de alta remuneração.
 
 ---
