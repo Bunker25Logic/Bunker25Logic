@@ -28,8 +28,8 @@ Estudante de **Ciência da Computação** e desenvolvedor focado em transformar 
 ### 🎮 Experiências 3D & Lógica de Jogos
 | Projeto | Descrição Técnica | Link |
 | :--- | :--- | :--- |
-| **Online Game Bunker** | Mundo aberto 3D com Three.js e salvamento via Firebase. | [Jogar Agora](https://bunker25logic.github.io/onlineGameBunker/) |
-| **PaperWar** | Jogo estilo gacha desenvolvido com lógica pura em Vanilla JS. | [Jogar Agora](https://bunker25logic.github.io/PaperWar/) |
+| **Mapa Yas** | explore um belo mapa feito no blender e importado para o three.js, com interacao de movimento e camera, alem de um sistema de luzes e sombras. | [Jogar Agora](https://mapa-yas.vercel.app/) |
+| **Imuno Defeso** | voce e um globulo de imunidade, que precisa defender o corpo de virus e bacterias. | [Jogar Agora](https://imuno-defesa.vercel.app/) |
 | **CodePractice** | WebApp de Quiz focado em desafios de lógica de programação. | [Testar Agora](https://bunker25logic.github.io/codePratice/) |
 
 ### 🛠️ Ferramentas & Web Apps
