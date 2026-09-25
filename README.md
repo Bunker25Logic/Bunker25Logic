@@ -55,7 +55,6 @@ Estudante de **Ciência da Computação** e desenvolvedor focado em transformar 
 </p>
 *   📍 **Localização:** Brasiléia, Acre.
 *   🔗 **GitHub:** [Bunker25Logic](https://github.com/Bunker25Logic).
-*   🎯 **Meta Julho/2026:** Consolidação como desenvolvedor fullstack de alta remuneração.
 
 ---
 *Assinado: **Bunker25 Logic** — Desembaraçando códigos, construindo o futuro.*
