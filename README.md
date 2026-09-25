@@ -36,7 +36,7 @@ Estudante de **Ciência da Computação** e desenvolvedor focado em transformar 
 | Projeto | Descrição Técnica | Link |
 | :--- | :--- | :--- |
 | **WebCoder IDE** | Editor de código online completo feito com HTML, CSS e JS. | [Abrir IDE](https://bunker25logic.github.io/WebCoder/) |
-| **WGameDevTools** | Utilitário para tratamento de sprites construído com Vite + React. | [Usar Agora](https://bunker25logic.github.io/WGameDevTools/) |
+| **WGameDevTools** | Utilitário para tratamento de sprites construído com Vite + React. | [Usar Agora](https://w-game-dev-tools.vercel.app/) |
 | **Bunkerdex** | Consulta de PokéAPI com foco em UI refinada e performance. | [Ver Dex](https://bunker25logic.github.io/bunkerdex/) |
 | **Rick & Morty API** | Teste de requisição e tratamento de dados assíncronos. | [Acessar](https://bunker25logic.github.io/rickMorty/) |
 
